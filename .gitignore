@@ -1,0 +1,10 @@
+composer
+vendor
+node_modules
+.idea
+*.log
+*.zip
+*.tar.gz
+*.tar
+*.gz
+*.tgz
